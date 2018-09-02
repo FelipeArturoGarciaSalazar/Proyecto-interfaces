@@ -20,17 +20,16 @@ public class JavaApplication2 {
         };
 
         Profesor profesor = () -> {
-            String Nombre = "Raul Montaña";
+            String Nombre = "Osman Ferre";
             int grupo = 800;
             String Documento = "1234567890";
-            String Materia = "Calculo";
+            String Materia = "POO";
         };
         
         Director director = () -> {
-            String Nombre = "Pedro Jose Osorio";
-            String Documento = "1234567890";
-            String Area = "Ingenieria";
-            String Materia = "Calculo";
+            String Nombre = "Luis Adolfo Ansola";
+            String Documento = "123876498860";
+            String Area = "Practicas";
         };
          
     }

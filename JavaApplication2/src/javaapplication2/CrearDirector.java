@@ -13,7 +13,6 @@ public class CrearDirector implements Director{
         String Nombre = "Pedro Jose Osorio";
         String Documento = "1234567890";
         String Area = "Ingenieria";
-        String Materia = "Calculo";
         
     }
     
